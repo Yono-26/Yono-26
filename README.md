@@ -2,8 +2,6 @@
 ![Banner](banner.svg) 
 <!-- Replace with the actual link to your animated banner -->
 
-# Hi there! 👋 I am Mohamed Yunus
-
 ---
 
 ## 👨‍💻 About Me
